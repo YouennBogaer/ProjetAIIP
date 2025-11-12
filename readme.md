@@ -18,10 +18,10 @@ Download the LVIS annotation files from [this link](https://www.lvisdataset.org/
 Create a python file `constants.py` and paste the following constants with updated paths.
 
 ```python
-COCO2017_TRAIN_PATH = "<path_to_train_dataset>"
-COCO2017_VAL_PATH   = "<path_to_val_dataset>"
-COCO2017_TEST_PATH  = "<path_to_test_dataset>"
-TRAIN_ANNOT_PATH = "<path_to_train_annotations>"
-VAL_ANNOT_PATH   = "<path_to_val_annotations>"
-TEST_ANNOT_PATH  = "<path_to_test_annotations>"
+COCO2017_TRAIN_PATH = "<path_to_train_dataset_folder>"
+COCO2017_VAL_PATH   = "<path_to_val_dataset_folder>"
+COCO2017_TEST_PATH  = "<path_to_test_dataset_folder>"
+TRAIN_ANNOT_PATH = "<path_to_train_annotations_file>"
+VAL_ANNOT_PATH   = "<path_to_val_annotations_file>"
+TEST_ANNOT_PATH  = "<path_to_test_annotations_file>"
 ```
