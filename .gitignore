@@ -2,3 +2,5 @@
 data
 constants.py
 __pycache__
+*.pt
+*.jpg

@@ -5,3 +5,4 @@ pycocotools
 lvis
 tqdm
 requests
+ipywidgets
